@@ -1,0 +1,29 @@
+.image {
+  width: 250px;
+  height: 150px;
+  margin-right: 25px;
+}
+.list-item {
+  list-style-type: none;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.iconsCon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.para {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.text-con {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  margin-right: 8px;
+}
